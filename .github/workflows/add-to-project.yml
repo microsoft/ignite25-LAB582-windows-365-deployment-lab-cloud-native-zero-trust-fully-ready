@@ -1,0 +1,77 @@
+name: Add Issue to Project and Apply Labels
+
+"on":
+  issues:
+    types: [opened]
+
+jobs:
+  add-to-project:
+    name: Add issue to project
+    runs-on: ubuntu-latest
+    if: github.event.issue
+    steps:
+      - name: Add issue to project
+        uses: actions/add-to-project@v0.5.0
+        with:
+          project-url: ${{ vars.PROJECT_URL || 'https://github.com/orgs/microsoft/projects/YOUR_PROJECT_NUMBER' }}
+          github-token: ${{ secrets.ADD_TO_PROJECT_PAT || secrets.GITHUB_TOKEN }}
+          labeled: bug,enhancement,question
+          label-operator: OR
+
+  label_issues:
+    name: Apply labels to new issues
+    runs-on: ubuntu-latest
+    if: github.event.issue
+    steps:
+      - name: Apply default labels
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const issue = context.payload.issue;
+            const labels = [];
+            
+            // Apply labels based on issue content or title
+            const title = issue.title.toLowerCase();
+            const body = issue.body ? issue.body.toLowerCase() : '';
+            
+            // Add ignite label to all issues
+            labels.push('ignite-2025');
+            
+            // Check for specific keywords and apply appropriate labels
+            if (title.includes('bug') || body.includes('error') || body.includes('problem')) {
+              labels.push('bug');
+            } else if (title.includes('feature') || title.includes('enhancement') || body.includes('request')) {
+              labels.push('enhancement');
+            } else if (title.includes('question') || title.includes('help') || body.includes('how to')) {
+              labels.push('question');
+            } else if (title.includes('doc') || body.includes('documentation')) {
+              labels.push('documentation');
+            } else {
+              // Default label for general issues
+              labels.push('needs-triage');
+            }
+            
+            // Apply Windows 365 specific label if mentioned
+            if (title.includes('windows 365') || body.includes('windows 365')) {
+              labels.push('windows-365');
+            }
+            
+            // Apply deployment related label if mentioned
+            if (title.includes('deploy') || body.includes('deploy') || title.includes('installation')) {
+              labels.push('deployment');
+            }
+            
+            // Apply zero trust label if mentioned
+            if (title.includes('zero trust') || body.includes('zero trust') || title.includes('security')) {
+              labels.push('zero-trust');
+            }
+            
+            if (labels.length > 0) {
+              await github.rest.issues.addLabels({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issue.number,
+                labels: labels
+              });
+            }
