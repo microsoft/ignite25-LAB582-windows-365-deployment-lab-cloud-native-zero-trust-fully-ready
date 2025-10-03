@@ -70,38 +70,28 @@ Send them to [Mike Kinsman](mailto:mikki@microsoft.com) and [Laurent Bugnion](lb
 
 # [Microsoft Ignite 2025](https://ignite.microsoft.com)
 
-## 🔥BRKXXX: Windows 365 Deployment Lab: Cloud Native, Zero Trust, Fully Ready
-
-[![Microsoft Azure AI Foundry Discord](https://dcbadge.limes.pink/api/server/ByRwuEEgH4)](https://discord.com/invite/ByRwuEEgH4)
-[![Azure AI Foundry Developer Forum](https://img.shields.io/badge/GitHub-Azure_AI_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=adff2f&logoColor=fff)](https://aka.ms/foundry/forum)
+## 🔥LAB582: Windows 365 Deployment Lab: Cloud Native, Zero Trust, Fully Ready
 
 ### Session Description
 
-*Add Session Description*
+Do you want to understand how Windows 365 can deliver a modern, cloud native Windows experience, delivering end user productivity in minutes. In this hands-on lab, you will learn how to configure Windows 365 Enterprise Cloud PC’s, with Modern Management, and Zero Trust principles, to deliver secure endpoints that will delight your end users.
+
+Come and try out the future of Windows, delivered from the Cloud.
 
 ### 🧠 Learning Outcomes
 
 By the end of this session, learners will be able to:
 
--  
--
--
+-  Understand how moving to a Cloud Native Windows Architecture simplifies your administrative load, and improves your End User Experience.
+- Undestand and apply different configurations to enable buisness flexibility whilst maintaining simplicity and control.
+- Explain how the Windows App can deliver a seamless, "Like Local" experience, improving on the traditional "VDI" experience
 
 ### 💻 Technologies Used
 
-1.
-1.
-1.
+1. Windows 365 Enterprise
+1. Intune
+1. Windows App
 
-### 🌟 Microsoft Learn MCP Server
-
-[![Install in VS Code](https://img.shields.io/badge/VS_Code-Install_Microsoft_Docs_MCP-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white)](https://vscode.dev/redirect/mcp/install?name=microsoft.docs.mcp&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Flearn.microsoft.com%2Fapi%2Fmcp%22%7D)
-
-The Microsoft Learn MCP Server is a remote MCP Server that enables clients like GitHub Copilot and other AI agents to bring trusted and up-to-date information directly from Microsoft's official documentation. Get started by using the one-click button above for VSCode or access the [mcp.json](.vscode/mcp.json) file included in this repo.
-
-For more information, setup instructions for other dev clients, and to post comments and questions, visit our Learn MCP Server GitHub repo at [https://github.com/MicrosoftDocs/MCP](https://github.com/MicrosoftDocs/MCP). Find other MCP Servers to connect your agent to at [https://mcp.azure.com](https://mcp.azure.com).
-
-*Note: When you use the Learn MCP Server, you agree with [Microsoft Learn](https://learn.microsoft.com/en-us/legal/termsofuse) and [Microsoft API Terms](https://learn.microsoft.com/en-us/legal/microsoft-apis/terms-of-use) of Use.*
 
 ### 📚 Resources and Next Steps
 
