@@ -19,11 +19,11 @@
 
 
 # Project information .........................................
-site_name: "Session Title"
+site_name: "LAB582: Windows 365 Deployment Lab: Cloud Native, Zero Trust, Fully Ready"
 site_url: 
-site_author: Content Creator
+site_author: Matt Abraham
 site_description: >-
-  Demo mkdocs for Ignite Repos
+  Do you want to understand how Windows 365 can deliver a modern, cloud native Windows experience, delivering end user productivity in minutes. In this hands-on lab, you will learn how to configure Windows 365 Enterprise Cloud PC’s, with Modern Management, and Zero Trust principles, to deliver secure endpoints that will delight your end users.
 
 # Repository ..................................................
 repo_name: microsoft/Ignite25-Repo-Template
