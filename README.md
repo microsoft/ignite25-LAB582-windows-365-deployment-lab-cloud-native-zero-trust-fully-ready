@@ -24,8 +24,6 @@
 | Link to the outline  | [Outline](https://microsofteur-my.sharepoint.com/:w:/g/personal/mata_microsoft_com/ETu19jCeHaxLnfyHkJ8sqacB7hKUhvm1XB51Fx5yiu3xWQ?e=PLHfo4) |  |
 | Link to the Skillable lab | [SkillableLab](https://labondemand.com/LabProfile/198057)|  |
 | Link to the user guide | [Lab Guide](https://microsofteur-my.sharepoint.com/:w:/g/personal/mata_microsoft_com/EXd4oGM5zZZAi12e-atkBS4BtIxMcGsKO6o0QDUmI5FSnQ?e=lqnslW&wdOrigin=LOOP-WEB.PREVIEW.NT&wduihid=c1b7b469-9bed-4d74-8769-21c838d07046&web=1&ct=1762924075946) |  |
-| Link to powerpoint | [Powerpoint](https://microsofteur-my.sharepoint.com/:p:/g/personal/mata_microsoft_com/EZBkg-XDK3NMo04-8XyMM3wBYS_mlNfPWO4xaF9Pb7bFfg?e=RslEvm&wdOrigin=LOOP-WEB.PREVIEW.NT&wduihid=c1b7b469-9bed-4d74-8769-21c838d07046&web=1&ct=1762924166568) |  |
-
 
 ## Contributing
 
