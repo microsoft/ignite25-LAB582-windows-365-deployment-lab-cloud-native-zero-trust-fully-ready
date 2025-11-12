@@ -8,17 +8,7 @@
 
 ### Session Description
 
-Do you want to understand how Windows 365 can deliver a modern, cloud native Windows experience, delivering end user productivity in minutes. In this hands-on lab, you will learn how to configure Windows 365 Enterprise Cloud PC’s, with Modern Management, and Zero Trust principles, to deliver secure endpoints that will delight your end users.
-
-Come and try out the future of Windows, delivered from the Cloud.
-
-### 🧠 Learning Outcomes
-
-By the end of this session, learners will be able to:
-
--  Understand how moving to a Cloud Native Windows Architecture simplifies your administrative load, and improves your End User Experience.
-- Undestand and apply different configurations to enable buisness flexibility whilst maintaining simplicity and control.
-- Explain how the Windows App can deliver a seamless, "Like Local" experience, improving on the traditional "VDI" experience
+*Learn to deploy Windows 365 Cloud PCs using a secure, scalable model. In this hands-on lab, set up provisioning policies, integrate with Microsoft Entra, apply Zero Trust networking, and configure Conditional Access. Experience the full user journey and admin setup. Monitor and manage with ease. Leave with a blueprint to deploy, secure, and scale Cloud PCs efficiently.*
 
 ### 💻 Technologies Used
 
@@ -31,25 +21,10 @@ By the end of this session, learners will be able to:
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
-| Ignite 2025 Next Steps | [https://aka.ms/Ignite25-Next-Steps](https://aka.ms/Ignite25-Next-Steps?ocid=ignite25_nextsteps_cnl) | Links to all repos for AI Tour 26 Sessions |
-| Learn at Ignite | [https://aka.ms/LearnAtIgnite](https://aka.ms/LearnAtIgnite?ocid=ignite25_nextsteps_github_cnl) | Continue learning on Microsoft Learn |
-
-## Content Owners
-
-<!-- TODO: Add yourself as a content owner
-1. Change the src in the image tag to {your github url}.png
-2. Change INSERT NAME HERE to your name
-3. Change the github url in the final href to your url. -->
-
-<table>
-<tr>
-    <td align="center"><a href="https://github.com/matabra">
-        <img src="img\Matt Abraham Small.png" width="100px;" alt="Matt Abraham"
-"/><br />
-        <sub><b> Matt Abraham
-</b></sub></a><br />
-            
-</tr></table>
+| Link to the outline  | [Outline](https://microsofteur-my.sharepoint.com/:w:/g/personal/mata_microsoft_com/ETu19jCeHaxLnfyHkJ8sqacB7hKUhvm1XB51Fx5yiu3xWQ?e=PLHfo4) |  |
+| Link to the Skillable lab | [SkillableLab](https://labondemand.com/LabProfile/198057)|  |
+| Link to the user guide | [Lab Guide](https://microsofteur-my.sharepoint.com/:w:/g/personal/mata_microsoft_com/EXd4oGM5zZZAi12e-atkBS4BtIxMcGsKO6o0QDUmI5FSnQ?e=lqnslW&wdOrigin=LOOP-WEB.PREVIEW.NT&wduihid=c1b7b469-9bed-4d74-8769-21c838d07046&web=1&ct=1762924075946) |  |
+| Link to powerpoint | [Powerpoint](https://microsofteur-my.sharepoint.com/:p:/g/personal/mata_microsoft_com/EZBkg-XDK3NMo04-8XyMM3wBYS_mlNfPWO4xaF9Pb7bFfg?e=RslEvm&wdOrigin=LOOP-WEB.PREVIEW.NT&wduihid=c1b7b469-9bed-4d74-8769-21c838d07046&web=1&ct=1762924166568) |  |
 
 
 ## Contributing
