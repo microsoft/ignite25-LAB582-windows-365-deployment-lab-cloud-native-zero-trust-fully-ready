@@ -17,13 +17,14 @@
 1. Windows App
 
 
-### 📚 Resources
+### 📚 Resources & Next Steps
 
-| Resources          | Links                             |
-|:-------------------|:----------------------------------|
-| Overview of security concepts in Windows 365 | [https://learn.microsoft.com/en-us/windows-365/enterprise/security](https://learn.microsoft.com/en-us/windows-365/enterprise/security)| 
-| Windows 365 networking deployment options | [https://learn.microsoft.com/en-us/windows-365/enterprise/deployment-options](https://learn.microsoft.com/en-us/windows-365/enterprise/deployment-options)| 
-| What is Zero Trust? | [https://learn.microsoft.com/en-us/security/zero-trust/zero-trust-identity-device-access-policies-overview](https://learn.microsoft.com/en-us/security/zero-trust/zero-trust-overview) | 
+| Resources          | Links                             | Description |
+|:-------------------|:----------------------------------|:------------|
+| Overview of security concepts in Windows 365 | [https://learn.microsoft.com/en-us/windows-365/enterprise/security](https://learn.microsoft.com/en-us/windows-365/enterprise/security)| Learn about security features in Windows 365 |
+| Windows 365 networking deployment options | [https://learn.microsoft.com/en-us/windows-365/enterprise/deployment-options](https://learn.microsoft.com/en-us/windows-365/enterprise/deployment-options)| Explore different networking deployment strategies |
+| What is Zero Trust? | [https://learn.microsoft.com/en-us/security/zero-trust/zero-trust-identity-device-access-policies-overview](https://learn.microsoft.com/en-us/security/zero-trust/zero-trust-overview) | Understand Zero Trust security principles |
+| Ignite 2025 Next Steps | [https://aka.ms/Ignite25-Next-Steps](https://aka.ms/Ignite25-Next-Steps?ocid=ignite25_nextsteps_cnl) | Links to all repos for Ignite 2025 Sessions | 
 
 ## Contributing
 
