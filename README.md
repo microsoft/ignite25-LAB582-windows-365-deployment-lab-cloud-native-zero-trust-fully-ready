@@ -25,6 +25,7 @@
 | Windows 365 networking deployment options | [https://learn.microsoft.com/en-us/windows-365/enterprise/deployment-options](https://learn.microsoft.com/en-us/windows-365/enterprise/deployment-options)| 
 | What is Zero Trust? | [https://learn.microsoft.com/en-us/security/zero-trust/zero-trust-identity-device-access-policies-overview](https://learn.microsoft.com/en-us/security/zero-trust/zero-trust-overview) | 
 | Ignite 2025 Next Steps | [https://aka.ms/Ignite25-Next-Steps](https://aka.ms/Ignite25-Next-Steps?ocid=ignite25_nextsteps_cnl) | 
+| Learn at Ignite 2025 | [https://aka.ms/LearnAtIgnite](https://aka.ms/LearnAtIgnite) | 
 
 ## Contributing
 
